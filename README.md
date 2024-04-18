@@ -1,2 +1,2 @@
-# thiTN2024
-thi tốt nghiệp năm 2024
+# thiTotNghiep
+Đếm ngược thời gian thi tốt nghiệp

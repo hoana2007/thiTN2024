@@ -1,0 +1,46 @@
+body {
+    font: 14px/1.5 "PT Sans Narrow", sans-serif;
+    background: #080e24 url(http://neography.com/experiment/circles/solarsystem/bg.jpg) repeat;
+    color: #3cebc5;
+}
+#h1 {
+    padding: 20px;
+    text-align: center;
+    height: 20px;
+    color: #3cebc5;
+}
+p {
+    padding-top: 30px;
+    color: red;
+}
+#h3 {
+    padding: 20px;
+    text-align: center;
+    height: 20px;
+    color: #0017e6;
+}
+
+#img1 {
+    height: 200px;
+    width: 200px;
+}
+
+#header{
+    padding: auto;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#content {
+    padding-left: auto;
+    width: 100%;
+    height: 1024px;
+    justify-content: center;
+}
+
+#countdown {
+    text-align: center;
+    text-decoration-color: greenyellow;
+    font-size: 30px;
+}
